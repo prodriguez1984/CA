@@ -1,0 +1,15 @@
+{
+  "name": "02-TP-apareoConActualizacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "node test/apareoConActualizacion.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hashmap": "^2.4.0"
+  }
+}

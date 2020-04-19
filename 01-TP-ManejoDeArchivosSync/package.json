@@ -1,10 +1,11 @@
 {
-  "name": "01-tp-manejo-de-archivos",
+  "name": "02-TP-apareo-Con-Actualizacion",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "node ./test/apareo.test.js"},
+    "test": "node ./test/apareo.test.js"
+	},
   "keywords": [],
   "author": "",
   "license": "ISC"

@@ -1,0 +1,11 @@
+{
+  "name": "03-tp-sync",
+  "version": "1.0.0",
+  "description": "Tp 3 de CA",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "prodriguez",
+  "license": "ISC"
+}
