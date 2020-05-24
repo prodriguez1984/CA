@@ -1,0 +1,17 @@
+{
+  "name": "04-tp-server",
+  "version": "1.0.0",
+  "description": "Server con Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./web/server.js",
+    "debug": "node --inspect-brk=12 ./web/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
